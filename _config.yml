@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Young Cloud"
-  avatar           : "/assets/image/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "born as vegetable dog"
   location         : "XianNing | ChengDu"
   email            :
