@@ -116,7 +116,7 @@ author:
   name             : "Young Cloud"
   avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "born as vegetable dog"
-  location         : "XianNing | ChengDu"
+  location         : "ChengDu, China"
   email            :
   links:
     - label: "SourceCode"
@@ -323,6 +323,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false # true
+      comments: false
       share: true
       related: true
