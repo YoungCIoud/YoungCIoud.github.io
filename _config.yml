@@ -321,8 +321,9 @@ defaults:
       type: posts
     values:
       layout: single
+      enable_copy_code_button  : true
       author_profile: true
       read_time: true
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
