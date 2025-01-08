@@ -322,9 +322,8 @@ defaults:
     values:
       layout: single
       toc: true
-      toc_lable: "In This Post"
-      toc_icon: "cog"
-#     enable_copy_code_button  : true
+      toc_lable: "In This Page"
+      toc_icon: "fa-solid fa-bars"
       author_profile: true
       read_time: true
       comments: false
